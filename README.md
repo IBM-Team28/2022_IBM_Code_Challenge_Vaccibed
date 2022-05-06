@@ -7,7 +7,7 @@ lack the treatment because of not exactly knowing where and which hospital provi
 required facility.
 # Modules
 COVID BED PORTAL
- Registration
+ <br>Registration
  Request Bed
  Manage Bed
  Allocate Hospital
