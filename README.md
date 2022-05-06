@@ -27,6 +27,7 @@ COVID BED PORTAL
    <br>Idea:- Anlin Albert, Anusurya M S, Shirin Safwana S, Afreen Nasseer, Devika T V
    <br>Figma :- Devika T V, Afreen Nasseer
    <br>Presentation slide:- Shirin Safwana S
+   <br>Database Demo:- Anlin Albert
  
 
 
