@@ -22,11 +22,12 @@ COVID BED PORTAL
   <br>Frontend:- HTML, CSS, JavaScript
   <br>Backend:- PHP, MYSQL
  # Contribution
-   Frontend:- Afreen Nasseer, Devika 
+   Frontend:- Afreen Nasseer, Devika T V
    <br>Backend:- Anlin Albert, Shirin Safwana S
-   <br>Idea:- All the 5 members
-   <br>Figma :- Devika, Afreen
+   <br>Idea:- Anlin Albert, Anusurya M S, Shirin Safwana S, Afreen Nasseer, Devika T V
+   <br>Figma :- Devika T V, Afreen Nasseer
    <br>Presentation slide:- Shirin Safwana S
+ 
 
 
 
